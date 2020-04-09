@@ -1,6 +1,7 @@
 # Kelsey Chin
 
 kychin@uw.edu
+
 Seattle, WA
 
 # Summary

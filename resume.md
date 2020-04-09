@@ -35,8 +35,8 @@ Lead for all e-commerce and management of temporary staff. Assistant to shipping
 Assisted office staff in all adoptions and respective inquiries. Introduced families to prospective pets to unite pets to their forever homes.
 
 - United sheltered pets with loving families.
-- Involved heavy interpersonal contact and knowledge of general shelter operations
-- Required much flexibility in tasks to be completed
+- Involved heavy interpersonal contact and knowledge of general shelter operations.
+- Required much flexibility in tasks to be completed.
 
 
 [Bellevue College]: http://bellevuecollege.edu
